@@ -1,0 +1,13 @@
+pdfminer.six
+PyMuPDF
+pdf2image
+pytesseract
+opencv-python
+potrace
+svgwrite
+matplotlib
+spacy
+pandas
+jupyter
+layoutparser
+yolov5 

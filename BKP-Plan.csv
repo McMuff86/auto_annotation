@@ -1,0 +1,537 @@
+Position,Bezeichnung,Kategorie
+000,Übergangspositionen,0 Grundstück > 00 Vorstudien
+001,Studien zur Grundstückbeurteilung,0 Grundstück > 00 Vorstudien
+002,"Vermessung, Vermarchung",0 Grundstück > 00 Vorstudien
+003,Geotechnische Gutachten,0 Grundstück > 00 Vorstudien
+004,Quartierplankosten,0 Grundstück > 00 Vorstudien
+005,Provisorische Baugespanne,0 Grundstück > 00 Vorstudien
+006,Umweltverträglichkeitsprüfungen,0 Grundstück > 00 Vorstudien
+007,008,0 Grundstück > 00 Vorstudien
+009,Übriges,0 Grundstück > 00 Vorstudien
+010,Übergangspositionen,0 Grundstück > 01 Grundstück- bzw. Baurechterwerb
+011,Grundstückerwerb,0 Grundstück > 01 Grundstück- bzw. Baurechterwerb
+012,Baurechterwerb,0 Grundstück > 01 Grundstück- bzw. Baurechterwerb
+013,Brandmauereinkauf,0 Grundstück > 01 Grundstück- bzw. Baurechterwerb
+014,015,0 Grundstück > 01 Grundstück- bzw. Baurechterwerb
+016,017,0 Grundstück > 01 Grundstück- bzw. Baurechterwerb
+018,019,0 Grundstück > 01 Grundstück- bzw. Baurechterwerb
+020,Übergangspositionen,0 Grundstück > 02 Nebenkosten zu Grundstück- resp. Baurechterwerb
+021,Handänderungskosten,0 Grundstück > 02 Nebenkosten zu Grundstück- resp. Baurechterwerb
+022,Notariatskosten,0 Grundstück > 02 Nebenkosten zu Grundstück- resp. Baurechterwerb
+023,Grunbuchgebühren,0 Grundstück > 02 Nebenkosten zu Grundstück- resp. Baurechterwerb
+024,"Anwaltskosten, Gerichtskosten",0 Grundstück > 02 Nebenkosten zu Grundstück- resp. Baurechterwerb
+025,Vermittlungsprovisionen,0 Grundstück > 02 Nebenkosten zu Grundstück- resp. Baurechterwerb
+026,027,0 Grundstück > 02 Nebenkosten zu Grundstück- resp. Baurechterwerb
+028,029,0 Grundstück > 02 Nebenkosten zu Grundstück- resp. Baurechterwerb
+030,Übergangspositionen,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+031,Abfindungen an Mieter und Pächter,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+032,Inkonvenienzentschädigungen,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+033,Errichtung von Servituten,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+034,Ablösung von Servituten,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+035,Wirtschaftspatente,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+036,Beiträge Melioration,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+037,Beiträge an Güterzusammenlegung,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+038,Perimeterbeiträge,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+039,Übriges,"0 Grundstück > 03 Abfindungen, Servitute, Beiträge"
+040,Übergangspositionen,0 Grundstück > 04 Finanzierung vor Baubeginn
+041,Errichtung von Hypotheken auf Grundstücken,0 Grundstück > 04 Finanzierung vor Baubeginn
+042,Hypothekarzinsen,0 Grundstück > 04 Finanzierung vor Baubeginn
+043,Baurechtzinse,0 Grundstück > 04 Finanzierung vor Baubeginn
+044,Bankzinsen,0 Grundstück > 04 Finanzierung vor Baubeginn
+045,Eigenkapitalzinsen,0 Grundstück > 04 Finanzierung vor Baubeginn
+046,Grundstücksteuern,0 Grundstück > 04 Finanzierung vor Baubeginn
+047,048,0 Grundstück > 04 Finanzierung vor Baubeginn
+049,Übriges,0 Grundstück > 04 Finanzierung vor Baubeginn
+050,Übergangspositionen,0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+051,Erdarbeiten,0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+052,Kanalisationsleitungen,0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+053,Elektroleitungen,0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+054,"Heizungs-, Lüftungs-, Klima-, Kälteleitungen",0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+055,Sanitärleitungen,0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+056,Nebenarbeiten,0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+057,058,0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+059,Übriges,0 Grundstück > 05 Erschliessung durch Leitungen (ausserhalb Grundstück)
+060,Übergangspositionen,0 Grundstück > 06 Erschliessung durch Verkehrsanlagen (ausserhalb Grundstück)
+061,Strassen,0 Grundstück > 06 Erschliessung durch Verkehrsanlagen (ausserhalb Grundstück)
+062,Bahn,0 Grundstück > 06 Erschliessung durch Verkehrsanlagen (ausserhalb Grundstück)
+063,Schiff,0 Grundstück > 06 Erschliessung durch Verkehrsanlagen (ausserhalb Grundstück)
+064,065,0 Grundstück > 06 Erschliessung durch Verkehrsanlagen (ausserhalb Grundstück)
+066,067,0 Grundstück > 06 Erschliessung durch Verkehrsanlagen (ausserhalb Grundstück)
+068,069,0 Grundstück > 06 Erschliessung durch Verkehrsanlagen (ausserhalb Grundstück)
+090,Übergangspositionen,0 Grundstück > 09 Honorare
+091,Architekt,0 Grundstück > 09 Honorare
+092,Bauingenieur,0 Grundstück > 09 Honorare
+093,Elektroingenieur,0 Grundstück > 09 Honorare
+094,HLKK-Ingenieur,0 Grundstück > 09 Honorare
+095,Sanitäringenieur,0 Grundstück > 09 Honorare
+096,Spezialisten,0 Grundstück > 09 Honorare
+097,098,0 Grundstück > 09 Honorare
+099,Übriges,0 Grundstück > 09 Honorare
+100,Übergangspositionen,"1 Vorbereitungsarbeiten > 10 Bestandesaufnahmen, Baugrunduntersuchungen"
+101,Bestandesaufnahmen,"1 Vorbereitungsarbeiten > 10 Bestandesaufnahmen, Baugrunduntersuchungen"
+102,Baugrunduntersuchungen,"1 Vorbereitungsarbeiten > 10 Bestandesaufnahmen, Baugrunduntersuchungen"
+103,Grundwassererhebungen,"1 Vorbereitungsarbeiten > 10 Bestandesaufnahmen, Baugrunduntersuchungen"
+104,105,"1 Vorbereitungsarbeiten > 10 Bestandesaufnahmen, Baugrunduntersuchungen"
+106,107,"1 Vorbereitungsarbeiten > 10 Bestandesaufnahmen, Baugrunduntersuchungen"
+108,109,"1 Vorbereitungsarbeiten > 10 Bestandesaufnahmen, Baugrunduntersuchungen"
+110,Übergangspositionen,"1 Vorbereitungsarbeiten > 11 Räumungen, Terrainvorbereitungen"
+111,Rohdungen,"1 Vorbereitungsarbeiten > 11 Räumungen, Terrainvorbereitungen"
+112,Abbrüche,"1 Vorbereitungsarbeiten > 11 Räumungen, Terrainvorbereitungen"
+113,Demontagen,"1 Vorbereitungsarbeiten > 11 Räumungen, Terrainvorbereitungen"
+114,Erdbewegungen,"1 Vorbereitungsarbeiten > 11 Räumungen, Terrainvorbereitungen"
+115,116,"1 Vorbereitungsarbeiten > 11 Räumungen, Terrainvorbereitungen"
+117,118,"1 Vorbereitungsarbeiten > 11 Räumungen, Terrainvorbereitungen"
+119,Übriges,"1 Vorbereitungsarbeiten > 11 Räumungen, Terrainvorbereitungen"
+120,Übergangspositionen,"1 Vorbereitungsarbeiten > 12 Sicherungen, Provisorien"
+121,Sicherung vorhandener Anlagen,"1 Vorbereitungsarbeiten > 12 Sicherungen, Provisorien"
+122,Provisorien,"1 Vorbereitungsarbeiten > 12 Sicherungen, Provisorien"
+123,Unterfangungen,"1 Vorbereitungsarbeiten > 12 Sicherungen, Provisorien"
+124,Instandsetzungsarbeiten,"1 Vorbereitungsarbeiten > 12 Sicherungen, Provisorien"
+125,126,"1 Vorbereitungsarbeiten > 12 Sicherungen, Provisorien"
+127,128,"1 Vorbereitungsarbeiten > 12 Sicherungen, Provisorien"
+129,Übriges,"1 Vorbereitungsarbeiten > 12 Sicherungen, Provisorien"
+130,Übergangspositionen,1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+131,Abschrankungen,1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+132,"Zufahrten, Plätze",1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+133,Büro Bauleitung,1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+134,"Unterkünfte, Verpflegungseinrichtungen",1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+135,Provisorische Installationen,1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+136,"Kosten für Energie, Wasser, und dgl.",1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+137,Provisorische Abschlüsse und Abdeckungen,1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+138,139,1 Vorbereitungsarbeiten > 13 Gemeinsame Baustelleneinrichtung
+140,Übergangspositionen,1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+141,"Terraingestalltung, Rohbau 1",1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+142,Rohbau 2,1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+143,Elektroanlagen,1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+144,"Heizungs-, Lüftungs-, Klima-, und Kälteanlagen",1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+145,Sanitäranlagen,1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+146,Transportanlagen,1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+147,Ausbau 1,1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+148,Ausbau 2,1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+149,Übriges,1 Vorbereitungsarbeiten > 14 Anpassungen an bestehenden Bauten
+150,Übergangspositionen,1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+151,Erdarbeiten,1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+152,Kanalisationsleitungen,1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+153,Elektroleitungen,1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+154,"Heizungs-, Lüftungs-, Klima-, Kälteleitungen",1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+155,Sanitärleitungen,1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+156,Nebenarbeiten,1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+157,158,1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+159,Übriges,1 Vorbereitungsarbeiten > 15 Anpassungen an bestehenden Erschliessungsleitungen
+160,Übergangspositionen,1 Vorbereitungsarbeiten > 16 Anpassung an bestehenden Verkehrsanlagen
+161,Strassen,1 Vorbereitungsarbeiten > 16 Anpassung an bestehenden Verkehrsanlagen
+162,Bahn,1 Vorbereitungsarbeiten > 16 Anpassung an bestehenden Verkehrsanlagen
+163,Schiff,1 Vorbereitungsarbeiten > 16 Anpassung an bestehenden Verkehrsanlagen
+164,165,1 Vorbereitungsarbeiten > 16 Anpassung an bestehenden Verkehrsanlagen
+166,167,1 Vorbereitungsarbeiten > 16 Anpassung an bestehenden Verkehrsanlagen
+168,169,1 Vorbereitungsarbeiten > 16 Anpassung an bestehenden Verkehrsanlagen
+170,Übergangspositionen,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+171,Pfähle,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+172,Baugrubenabschlüsse,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+173,Aussteifungen,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+174,Anker,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+175,Grundwasserabdichtung,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+176,Wasserhaltung,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+177,Baugrundverbesserungen,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+178,Nebenarbeiten,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+179,Übriges,"1 Vorbereitungsarbeiten > 17 Spez. Fundation, Baugrubensicherung, Grundwasserabdichtung"
+190,Übergangspositionen,1 Vorbereitungsarbeiten > 19 Honorare
+191,Architekt,1 Vorbereitungsarbeiten > 19 Honorare
+192,Bauingenieur,1 Vorbereitungsarbeiten > 19 Honorare
+193,Elektroingenieur,1 Vorbereitungsarbeiten > 19 Honorare
+194,HLK-Ingenieur,1 Vorbereitungsarbeiten > 19 Honorare
+195,Sanitäringenieur,1 Vorbereitungsarbeiten > 19 Honorare
+196,Spezialisten,1 Vorbereitungsarbeiten > 19 Honorare
+197,198,1 Vorbereitungsarbeiten > 19 Honorare
+199,Übriges,1 Vorbereitungsarbeiten > 19 Honorare
+200,Übergangsposition,2 Gebäude > 20 Baugrube
+201,Baugrubenaushub,2 Gebäude > 20 Baugrube
+202,203,2 Gebäude > 20 Baugrube
+204,205,2 Gebäude > 20 Baugrube
+206,207,2 Gebäude > 20 Baugrube
+208,209,2 Gebäude > 20 Baugrube
+210,Übergangspositionen,2 Gebäude > 21 Rohbau 1
+211,Baumeisterarbeiten,2 Gebäude > 21 Rohbau 1
+212,Montagebau in Beton und vorfabriziertem Mauerwerk,2 Gebäude > 21 Rohbau 1
+213,Montagebau in Stahl,2 Gebäude > 21 Rohbau 1
+214,Montagebau in Holz,2 Gebäude > 21 Rohbau 1
+215,Montagebau als Leichtkonstruktion,2 Gebäude > 21 Rohbau 1
+216,Natur- und Kunststeinarbeiten,2 Gebäude > 21 Rohbau 1
+217,Schutzraumabschlüsse,2 Gebäude > 21 Rohbau 1
+218,219,2 Gebäude > 21 Rohbau 1
+220,Übergangspositionen,2 Gebäude > 22 Rohbau 2
+221,"Fenster, Aussentüren, Tore",2 Gebäude > 22 Rohbau 2
+222,Spenglerarbeiten,2 Gebäude > 22 Rohbau 2
+223,Blitzschutz,2 Gebäude > 22 Rohbau 2
+224,Bedachungsarbeiten,2 Gebäude > 22 Rohbau 2
+225,Spezielle Dichtungen und Dämmungen,2 Gebäude > 22 Rohbau 2
+226,Fassadenverputze,2 Gebäude > 22 Rohbau 2
+227,Äussere Oberflächenbehandlungen,2 Gebäude > 22 Rohbau 2
+228,"Äussere Abschlüsse, Sonnenschutz",2 Gebäude > 22 Rohbau 2
+229,Übriges,2 Gebäude > 22 Rohbau 2
+230,Übergangspositionen,2 Gebäude > 23 Elektroanlagen
+231,Apparate Starkstrom,2 Gebäude > 23 Elektroanlagen
+232,Starkstrominstallationen,2 Gebäude > 23 Elektroanlagen
+233,Leuchten und Lampen,2 Gebäude > 23 Elektroanlagen
+234,Energieverbraucher,2 Gebäude > 23 Elektroanlagen
+235,Apparate Schwachstrom,2 Gebäude > 23 Elektroanlagen
+236,Schwachstrominstallationen,2 Gebäude > 23 Elektroanlagen
+237,238,2 Gebäude > 23 Elektroanlagen
+239,Übriges,2 Gebäude > 23 Elektroanlagen
+240,Übergangspositionen,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+241,"Zulieferung Energieträger, Lagerung","2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+242,Wärmeerzeugung,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+243,Wärmeverteilung,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+244,Lüftungsanlagen,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+245,Klimaanlagen,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+246,Kälteanlagen,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+247,Spezialanlagen,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+248,Dämmungen HLK-Installationen,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+249,Übriges,"2 Gebäude > 24 Heizungs-, Lüftungs-, Klimaanlagen"
+250,Übergangspositionen,2 Gebäude > 25 Sanitäranlagen
+251,Allgemeine Sanitärapparate,2 Gebäude > 25 Sanitäranlagen
+252,Spezielle Sanitärapparate,2 Gebäude > 25 Sanitäranlagen
+253,Sanitäre Ver- und Entsorgungsapparate,2 Gebäude > 25 Sanitäranlagen
+254,Sanitärleitungen,2 Gebäude > 25 Sanitäranlagen
+255,Dämmungen Sanitärinstallationen,2 Gebäude > 25 Sanitäranlagen
+256,Sanitärinstallationselemente,2 Gebäude > 25 Sanitäranlagen
+257,Elektro- und Pneumatiktafeln,2 Gebäude > 25 Sanitäranlagen
+258,Kücheneinrichtungen,2 Gebäude > 25 Sanitäranlagen
+259,Übriges,2 Gebäude > 25 Sanitäranlagen
+260,Übergangspositionen,2 Gebäude > 26 Transportanlagen
+261,Aufzüge,2 Gebäude > 26 Transportanlagen
+262,"Fahrtreppen, Fahrsteige",2 Gebäude > 26 Transportanlagen
+263,Fassadenreinigungsanlagen,2 Gebäude > 26 Transportanlagen
+264,Sonstige Förderanlagen,2 Gebäude > 26 Transportanlagen
+265,Hebeeinrichtungen,2 Gebäude > 26 Transportanlagen
+266,Parkieranlagen,2 Gebäude > 26 Transportanlagen
+267,268,2 Gebäude > 26 Transportanlagen
+269,Übriges,2 Gebäude > 26 Transportanlagen
+270,Übergangspositionen,2 Gebäude > 27 Ausbau 1
+271,Gipserarbeiten,2 Gebäude > 27 Ausbau 1
+272,Metallbauarbeiten,2 Gebäude > 27 Ausbau 1
+273,Schreinerarbeiten,2 Gebäude > 27 Ausbau 1
+274,Spezialverglasungen (innere),2 Gebäude > 27 Ausbau 1
+275,Schliessanlagen,2 Gebäude > 27 Ausbau 1
+276,Innere Abschlüsse,2 Gebäude > 27 Ausbau 1
+277,Elementwände,2 Gebäude > 27 Ausbau 1
+278,279,2 Gebäude > 27 Ausbau 1
+280,Übergangspositionen,2 Gebäude > 28 Ausbau 2
+281,Bodenbeläge,2 Gebäude > 28 Ausbau 2
+282,"Wandbeläge, Wandverkleidungen",2 Gebäude > 28 Ausbau 2
+283,Deckenbekleidungen,2 Gebäude > 28 Ausbau 2
+284,Hafnerarbeiten,2 Gebäude > 28 Ausbau 2
+285,Innere Oberflächenbehandlungen,2 Gebäude > 28 Ausbau 2
+286,Bauaustrocknung,2 Gebäude > 28 Ausbau 2
+287,Baureinigung,2 Gebäude > 28 Ausbau 2
+288,Gärtnerarbeiten (Gebäude),2 Gebäude > 28 Ausbau 2
+289,Übriges,2 Gebäude > 28 Ausbau 2
+290,Übergangspositionen,2 Gebäude > 29 Honorare
+291,Architekt,2 Gebäude > 29 Honorare
+292,Bauingenieur,2 Gebäude > 29 Honorare
+293,Elektroingenieur,2 Gebäude > 29 Honorare
+294,HLK-Ingenieur,2 Gebäude > 29 Honorare
+295,Sanitäringenieur,2 Gebäude > 29 Honorare
+296,Spezialisten,2 Gebäude > 29 Honorare
+297,298,2 Gebäude > 29 Honorare
+299,Übriges,2 Gebäude > 29 Honorare
+300,Übergangsposition,3 Betriebseinrichtungen > 30 Baugrube
+301,Baugrubenaushub,3 Betriebseinrichtungen > 30 Baugrube
+302,303,3 Betriebseinrichtungen > 30 Baugrube
+304,305,3 Betriebseinrichtungen > 30 Baugrube
+306,307,3 Betriebseinrichtungen > 30 Baugrube
+308,309,3 Betriebseinrichtungen > 30 Baugrube
+310,Übergangsposition,3 Betriebseinrichtungen > 31 Rohbau 1
+311,Baumeisterarbeiten,3 Betriebseinrichtungen > 31 Rohbau 1
+312,Montagebau in Beton und vorfabriziertem Mauerwerk,3 Betriebseinrichtungen > 31 Rohbau 1
+313,Montagebau in Stahl,3 Betriebseinrichtungen > 31 Rohbau 1
+314,Montagebau in Holz,3 Betriebseinrichtungen > 31 Rohbau 1
+315,Montagebau als Leichtkonstruktion,3 Betriebseinrichtungen > 31 Rohbau 1
+316,Natur- und Kunststeinarbeiten,3 Betriebseinrichtungen > 31 Rohbau 1
+317,Schutzraumabschlüsse,3 Betriebseinrichtungen > 31 Rohbau 1
+318,319,3 Betriebseinrichtungen > 31 Rohbau 1
+320,Übergangspositionen,3 Betriebseinrichtungen > 32 Rohbau 2
+321,"Fenster, Aussentüren, Tore",3 Betriebseinrichtungen > 32 Rohbau 2
+322,Spenglerarbeiten,3 Betriebseinrichtungen > 32 Rohbau 2
+323,Blitzschutz,3 Betriebseinrichtungen > 32 Rohbau 2
+324,Bedachungsarbeiten,3 Betriebseinrichtungen > 32 Rohbau 2
+325,Spezielle Dichtungen und Dämmungen,3 Betriebseinrichtungen > 32 Rohbau 2
+326,Fassadenverputze,3 Betriebseinrichtungen > 32 Rohbau 2
+327,Äussere Oberflächenbehandlungen,3 Betriebseinrichtungen > 32 Rohbau 2
+328,"Äussere Abschlüsse, Sonnenschutz",3 Betriebseinrichtungen > 32 Rohbau 2
+329,Übriges,3 Betriebseinrichtungen > 32 Rohbau 2
+330,Übergangspositionen,3 Betriebseinrichtungen > 33 Elektroanlagen
+331,Apparate Starkstrom,3 Betriebseinrichtungen > 33 Elektroanlagen
+332,Starkstrominstallationen,3 Betriebseinrichtungen > 33 Elektroanlagen
+333,Leuchten und Lampen,3 Betriebseinrichtungen > 33 Elektroanlagen
+334,Energieverbraucher,3 Betriebseinrichtungen > 33 Elektroanlagen
+335,Apparate Schwachstrom,3 Betriebseinrichtungen > 33 Elektroanlagen
+336,Schwachstrominstallationen,3 Betriebseinrichtungen > 33 Elektroanlagen
+337,338,3 Betriebseinrichtungen > 33 Elektroanlagen
+339,Übriges,3 Betriebseinrichtungen > 33 Elektroanlagen
+340,Übergangspositionen,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+341,"Zulieferung Energieträger, Lagerung","3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+342,Wärmeerzeugung,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+343,Wärmeverteilung,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+344,Lüftungsanlagen,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+345,Klimaanlagen,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+346,Kälteanlagen,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+347,Spezialanlagen,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+348,Dämmungen HLK-Installationen,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+349,Übriges,"3 Betriebseinrichtungen > 34 Heizungs-, Lüftungs-, Klima- und Kälteanlagen"
+350,Übergangspositionen,3 Betriebseinrichtungen > 35 Sanitäranlagen
+351,Allgemeine Sanitärapparate,3 Betriebseinrichtungen > 35 Sanitäranlagen
+352,Spezielle Sanitärapparate,3 Betriebseinrichtungen > 35 Sanitäranlagen
+353,Sanitäre Ver- und Entsorgungsapparate,3 Betriebseinrichtungen > 35 Sanitäranlagen
+354,Sanitärleitungen,3 Betriebseinrichtungen > 35 Sanitäranlagen
+355,Dämmungen Sanitärinstallationen,3 Betriebseinrichtungen > 35 Sanitäranlagen
+356,Sanitärinstallationselemente,3 Betriebseinrichtungen > 35 Sanitäranlagen
+357,Elektro- und Pneumatiktafeln,3 Betriebseinrichtungen > 35 Sanitäranlagen
+358,Kücheneinrichtungen,3 Betriebseinrichtungen > 35 Sanitäranlagen
+359,Übriges,3 Betriebseinrichtungen > 35 Sanitäranlagen
+360,Übergangspositionen,3 Betriebseinrichtungen > 36 Transportanlagen
+361,Aufzüge,3 Betriebseinrichtungen > 36 Transportanlagen
+362,"Fahrtreppen, Fahrsteige",3 Betriebseinrichtungen > 36 Transportanlagen
+363,364,3 Betriebseinrichtungen > 36 Transportanlagen
+365,Hebeeinrichtungen,3 Betriebseinrichtungen > 36 Transportanlagen
+366,Parkieranlagen,3 Betriebseinrichtungen > 36 Transportanlagen
+367,368,3 Betriebseinrichtungen > 36 Transportanlagen
+369,Übriges,3 Betriebseinrichtungen > 36 Transportanlagen
+370,Übergangspositionen,3 Betriebseinrichtungen > 37 Ausbau 1
+371,Gipserarbeiten,3 Betriebseinrichtungen > 37 Ausbau 1
+372,Metallbauarbeiten,3 Betriebseinrichtungen > 37 Ausbau 1
+373,Schreinerarbeiten,3 Betriebseinrichtungen > 37 Ausbau 1
+374,Spezialverglasungen (innere),3 Betriebseinrichtungen > 37 Ausbau 1
+375,Schliessanlagen,3 Betriebseinrichtungen > 37 Ausbau 1
+376,Innere Abschlüsse,3 Betriebseinrichtungen > 37 Ausbau 1
+377,Elementwände,3 Betriebseinrichtungen > 37 Ausbau 1
+378,379,3 Betriebseinrichtungen > 37 Ausbau 1
+380,Übergangspositionen,3 Betriebseinrichtungen > 38 Ausbau 2
+381,Bodenbeläge,3 Betriebseinrichtungen > 38 Ausbau 2
+382,"Wandbeläge, Wandverkleidungen",3 Betriebseinrichtungen > 38 Ausbau 2
+383,Deckenbekleidungen,3 Betriebseinrichtungen > 38 Ausbau 2
+384,Hafnerarbeiten,3 Betriebseinrichtungen > 38 Ausbau 2
+385,Innere Oberflächenbehandlungen,3 Betriebseinrichtungen > 38 Ausbau 2
+386,Bauaustrocknung,3 Betriebseinrichtungen > 38 Ausbau 2
+387,Baureinigung,3 Betriebseinrichtungen > 38 Ausbau 2
+388,Gärtnerarbeiten (Bertiebseinrichtungen),3 Betriebseinrichtungen > 38 Ausbau 2
+389,Übriges,3 Betriebseinrichtungen > 38 Ausbau 2
+390,Übergangspositionen,3 Betriebseinrichtungen > 39 Honorare
+391,Architekt,3 Betriebseinrichtungen > 39 Honorare
+392,Bauingenieur,3 Betriebseinrichtungen > 39 Honorare
+393,Elektroingenieur,3 Betriebseinrichtungen > 39 Honorare
+394,HLKK-Ingenieur,3 Betriebseinrichtungen > 39 Honorare
+395,Sanitäringenieur,3 Betriebseinrichtungen > 39 Honorare
+396,Spezialisten,3 Betriebseinrichtungen > 39 Honorare
+397,398,3 Betriebseinrichtungen > 39 Honorare
+399,Übriges,3 Betriebseinrichtungen > 39 Honorare
+400,Übergangsposition,4 Umgebung > 40 Terraingestaltung
+401,Erdbewegungen,4 Umgebung > 40 Terraingestaltung
+402,403,4 Umgebung > 40 Terraingestaltung
+404,405,4 Umgebung > 40 Terraingestaltung
+406,407,4 Umgebung > 40 Terraingestaltung
+408,409,4 Umgebung > 40 Terraingestaltung
+410,Übergangsposition,4 Umgebung > 41 Roh- und Ausbauarbeiten
+411,Baumeisterarbeiten,4 Umgebung > 41 Roh- und Ausbauarbeiten
+412,413,4 Umgebung > 41 Roh- und Ausbauarbeiten
+414,Rohbau 2,4 Umgebung > 41 Roh- und Ausbauarbeiten
+415,Ausbau 1,4 Umgebung > 41 Roh- und Ausbauarbeiten
+416,Ausbau 2,4 Umgebung > 41 Roh- und Ausbauarbeiten
+417,418,4 Umgebung > 41 Roh- und Ausbauarbeiten
+419,Übriges,4 Umgebung > 41 Roh- und Ausbauarbeiten
+420,Übergangsposition,4 Umgebung > 42 Gartenanlagen
+421,Gärtnerarbeiten,4 Umgebung > 42 Gartenanlagen
+422,Einfriedungen,4 Umgebung > 42 Gartenanlagen
+423,"Ausstattungen, Geräte",4 Umgebung > 42 Gartenanlagen
+424,Spiel- und Sportplätze,4 Umgebung > 42 Gartenanlagen
+425,426,4 Umgebung > 42 Gartenanlagen
+427,428,4 Umgebung > 42 Gartenanlagen
+429,Übriges,4 Umgebung > 42 Gartenanlagen
+440,Übergangsposition,4 Umgebung > 44 Installationen
+441,442,4 Umgebung > 44 Installationen
+443,Elektroanlagen,4 Umgebung > 44 Installationen
+444,"Heizungs-, Lüftungs-, Klima-, Kälteanlagen",4 Umgebung > 44 Installationen
+445,Sanitäranlagen,4 Umgebung > 44 Installationen
+446,Transportanlagen,4 Umgebung > 44 Installationen
+447,448,4 Umgebung > 44 Installationen
+449,Übriges,4 Umgebung > 44 Installationen
+450,Übergangsposition,4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+451,Erdarbeiten,4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+452,Kanalisationsleitungen,4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+453,Elektroleitungen,4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+454,"Heizungs-, Lüftungs-, Klima-, Kälteleitungen",4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+455,Sanitärleitungen,4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+456,Nebenarbeiten,4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+457,458,4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+459,Übriges,4 Umgebung > 45 Erschliessung durch Leitungen (innerhalb Grundstück)
+460,Übergangsposition,4 Umgebung > 46 Kleinere Trassenbauten
+461,Erd- und Unterbau,4 Umgebung > 46 Kleinere Trassenbauten
+462,Kleinere Kunstbauten,4 Umgebung > 46 Kleinere Trassenbauten
+463,Oberbau,4 Umgebung > 46 Kleinere Trassenbauten
+464,Entwässerung,4 Umgebung > 46 Kleinere Trassenbauten
+465,Werkleitungen und Kanalisationen,4 Umgebung > 46 Kleinere Trassenbauten
+466,467,4 Umgebung > 46 Kleinere Trassenbauten
+468,Ausbau,4 Umgebung > 46 Kleinere Trassenbauten
+469,47,4 Umgebung > 46 Kleinere Trassenbauten
+470,Übergangsposition,4 Umgebung > 46 Kleinere Trassenbauten
+471,Baugrube,4 Umgebung > 46 Kleinere Trassenbauten
+472,Tragkonstruktion,4 Umgebung > 46 Kleinere Trassenbauten
+473,Oberbau,4 Umgebung > 46 Kleinere Trassenbauten
+474,Entwässerungen,4 Umgebung > 46 Kleinere Trassenbauten
+475,Werkleitungen und Kanalisationen,4 Umgebung > 46 Kleinere Trassenbauten
+476,477,4 Umgebung > 46 Kleinere Trassenbauten
+478,Ausbau,4 Umgebung > 46 Kleinere Trassenbauten
+479,48,4 Umgebung > 46 Kleinere Trassenbauten
+480,Übergangsposition,4 Umgebung > 46 Kleinere Trassenbauten
+481,Vortrieb,4 Umgebung > 46 Kleinere Trassenbauten
+482,"Auskleidung, Gewölbe",4 Umgebung > 46 Kleinere Trassenbauten
+483,Oberbau,4 Umgebung > 46 Kleinere Trassenbauten
+484,Entwässerung und Wasserversorgung,4 Umgebung > 46 Kleinere Trassenbauten
+485,Werkleitungen und Kanalisationen,4 Umgebung > 46 Kleinere Trassenbauten
+486,487,4 Umgebung > 46 Kleinere Trassenbauten
+488,Ausbau,4 Umgebung > 46 Kleinere Trassenbauten
+489,Seite 18,4 Umgebung > 46 Kleinere Trassenbauten
+490,Übergangspositionen,4 Umgebung > 49 Honorare
+491,Architekt,4 Umgebung > 49 Honorare
+492,Bauingenieur,4 Umgebung > 49 Honorare
+493,Elektroingenieur,4 Umgebung > 49 Honorare
+494,HLK-Ingenieur,4 Umgebung > 49 Honorare
+495,Sanitäringenieur,4 Umgebung > 49 Honorare
+496,Spezialisten,4 Umgebung > 49 Honorare
+497,498,4 Umgebung > 49 Honorare
+499,Übriges,4 Umgebung > 49 Honorare
+500,Übergangspositionen,5 Baunebenkosten > 50 Wettbewerbskosten
+501,Architekturwettbewerbe,5 Baunebenkosten > 50 Wettbewerbskosten
+502,Ingenieurwettbewerbe,5 Baunebenkosten > 50 Wettbewerbskosten
+503,Wettbewerbe für Umgebungsgestaltung,5 Baunebenkosten > 50 Wettbewerbskosten
+504,Wettbewerbe für künstlerische Gestaltung,5 Baunebenkosten > 50 Wettbewerbskosten
+505,506,5 Baunebenkosten > 50 Wettbewerbskosten
+507,508,5 Baunebenkosten > 50 Wettbewerbskosten
+509,Übriges,5 Baunebenkosten > 50 Wettbewerbskosten
+510,Übergangspositionen,"5 Baunebenkosten > 51 Bewilligungen, Gebühren"
+511,"Bewilligungen, Baugespann (Gebühren)","5 Baunebenkosten > 51 Bewilligungen, Gebühren"
+512,Anschlussgebühren,"5 Baunebenkosten > 51 Bewilligungen, Gebühren"
+513,514,"5 Baunebenkosten > 51 Bewilligungen, Gebühren"
+515,516,"5 Baunebenkosten > 51 Bewilligungen, Gebühren"
+517,518,"5 Baunebenkosten > 51 Bewilligungen, Gebühren"
+519,Übriges,"5 Baunebenkosten > 51 Bewilligungen, Gebühren"
+520,Übergangspositionen,"5 Baunebenkosten > 52 Muster, Modelle, Vervielfältigungen, Dokumentationen"
+521,"Muster, Materialprüfungen","5 Baunebenkosten > 52 Muster, Modelle, Vervielfältigungen, Dokumentationen"
+522,Modelle,"5 Baunebenkosten > 52 Muster, Modelle, Vervielfältigungen, Dokumentationen"
+523,Fotos,"5 Baunebenkosten > 52 Muster, Modelle, Vervielfältigungen, Dokumentationen"
+524,"Vervielfältigungen, Plankopien","5 Baunebenkosten > 52 Muster, Modelle, Vervielfältigungen, Dokumentationen"
+525,Dokumentation,"5 Baunebenkosten > 52 Muster, Modelle, Vervielfältigungen, Dokumentationen"
+526,527,"5 Baunebenkosten > 52 Muster, Modelle, Vervielfältigungen, Dokumentationen"
+528,529,"5 Baunebenkosten > 52 Muster, Modelle, Vervielfältigungen, Dokumentationen"
+530,Übergangspositionen,5 Baunebenkosten > 53 Versicherungen
+531,Bauzeitversicherungen,5 Baunebenkosten > 53 Versicherungen
+532,Spezialversicherungen,5 Baunebenkosten > 53 Versicherungen
+533,Selbstbehalt in Schadenfällen während der Bauzeit,5 Baunebenkosten > 53 Versicherungen
+534,535,5 Baunebenkosten > 53 Versicherungen
+536,537,5 Baunebenkosten > 53 Versicherungen
+538,539,5 Baunebenkosten > 53 Versicherungen
+540,Übergangspositionen,5 Baunebenkosten > 54 Finanzierung ab Baubeginn
+541,Errichten von Hypotheken auf Liegenschaften,5 Baunebenkosten > 54 Finanzierung ab Baubeginn
+542,"Baukreditzinsen, Bankspesen",5 Baunebenkosten > 54 Finanzierung ab Baubeginn
+543,Baurechtzinse,5 Baunebenkosten > 54 Finanzierung ab Baubeginn
+544,545,5 Baunebenkosten > 54 Finanzierung ab Baubeginn
+546,Liegenschaftssteuer während der Bauzeit,5 Baunebenkosten > 54 Finanzierung ab Baubeginn
+547,548,5 Baunebenkosten > 54 Finanzierung ab Baubeginn
+549,Übriges,5 Baunebenkosten > 54 Finanzierung ab Baubeginn
+550,Übergangspositionen,5 Baunebenkosten > 55 Bauherrenleistungen
+551,552,5 Baunebenkosten > 55 Bauherrenleistungen
+553,554,5 Baunebenkosten > 55 Bauherrenleistungen
+555,556,5 Baunebenkosten > 55 Bauherrenleistungen
+557,558,5 Baunebenkosten > 55 Bauherrenleistungen
+559,Übriges,5 Baunebenkosten > 55 Bauherrenleistungen
+560,Übergangspositionen,5 Baunebenkosten > 56 Übrige Baukosten
+561,Bewachung durch Dritte,5 Baunebenkosten > 56 Übrige Baukosten
+562,Nachbarentschädigungen,5 Baunebenkosten > 56 Übrige Baukosten
+563,Miete von fremdem Grund,5 Baunebenkosten > 56 Übrige Baukosten
+564,Gutachten,5 Baunebenkosten > 56 Übrige Baukosten
+565,Reisespesen,5 Baunebenkosten > 56 Übrige Baukosten
+566,"Grundsteinlegung, Aufrichte Einweihung",5 Baunebenkosten > 56 Übrige Baukosten
+567,"Anwaltskosten, Gerichtskosten",5 Baunebenkosten > 56 Übrige Baukosten
+568,Baureklame,5 Baunebenkosten > 56 Übrige Baukosten
+569,Übriges,5 Baunebenkosten > 56 Übrige Baukosten
+570,Übergangspositionen,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+571,Grundstück,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+572,Vorbereitungsarbeiten,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+573,Gebäude,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+574,Betriebseinrichtungen,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+575,Umgebung,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+576,Baunebenkosten und Übergangskonten,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+577,578,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+579,Ausstattung,5 Baunebenkosten > 57 Mehrwertsteuer (MWSt)
+580,Übergangspositionen,5 Baunebenkosten > 58 Übergangskonten für Rückstellungen und Reserven
+581,Rückstellungen für zu erwartende Kosten,5 Baunebenkosten > 58 Übergangskonten für Rückstellungen und Reserven
+582,Reserven für Teuerung,5 Baunebenkosten > 58 Übergangskonten für Rückstellungen und Reserven
+583,Reserven für Unvorhergesehenes,5 Baunebenkosten > 58 Übergangskonten für Rückstellungen und Reserven
+584,585,5 Baunebenkosten > 58 Übergangskonten für Rückstellungen und Reserven
+586,587,5 Baunebenkosten > 58 Übergangskonten für Rückstellungen und Reserven
+588,589,5 Baunebenkosten > 58 Übergangskonten für Rückstellungen und Reserven
+590,Übergangspositionen,5 Baunebenkosten > 59 Übergangskonten für Honorare
+591,Architekt,5 Baunebenkosten > 59 Übergangskonten für Honorare
+592,Bauingenieur,5 Baunebenkosten > 59 Übergangskonten für Honorare
+593,Elektroingenieur,5 Baunebenkosten > 59 Übergangskonten für Honorare
+594,HLKK-Ingenieur,5 Baunebenkosten > 59 Übergangskonten für Honorare
+595,Sanitäringenieur,5 Baunebenkosten > 59 Übergangskonten für Honorare
+596,Spezialisten,5 Baunebenkosten > 59 Übergangskonten für Honorare
+597,598,5 Baunebenkosten > 59 Übergangskonten für Honorare
+599,Übriges,5 Baunebenkosten > 59 Übergangskonten für Honorare
+900,Übergangspositionen,9 Ausstatung > 90 Möbel
+901,"Garderobeneinrichtungen, Gestelle und dgl.",9 Ausstatung > 90 Möbel
+902,Sporteinrichtungen,9 Ausstatung > 90 Möbel
+903,904,9 Ausstatung > 90 Möbel
+905,906,9 Ausstatung > 90 Möbel
+907,908,9 Ausstatung > 90 Möbel
+909,Übriges,9 Ausstatung > 90 Möbel
+910,Übergangspositionen,9 Ausstatung > 91 Beleuchtungskörper
+911,912,9 Ausstatung > 91 Beleuchtungskörper
+913,914,9 Ausstatung > 91 Beleuchtungskörper
+915,916,9 Ausstatung > 91 Beleuchtungskörper
+917,918,9 Ausstatung > 91 Beleuchtungskörper
+919,Übriges,9 Ausstatung > 91 Beleuchtungskörper
+920,Übergangspositionen,9 Ausstatung > 92 Textilien
+921,Vorhänge und Innendekorationsarbeiten,9 Ausstatung > 92 Textilien
+922,923,9 Ausstatung > 92 Textilien
+924,925,9 Ausstatung > 92 Textilien
+926,927,9 Ausstatung > 92 Textilien
+928,929,9 Ausstatung > 92 Textilien
+930,Übergangspositionen,"9 Ausstatung > 93 Geräte, Apparate"
+931,932,"9 Ausstatung > 93 Geräte, Apparate"
+933,934,"9 Ausstatung > 93 Geräte, Apparate"
+935,936,"9 Ausstatung > 93 Geräte, Apparate"
+937,938,"9 Ausstatung > 93 Geräte, Apparate"
+939,Übriges,"9 Ausstatung > 93 Geräte, Apparate"
+940,Übergangspositionen,9 Ausstatung > 94 Kleininventar
+941,942,9 Ausstatung > 94 Kleininventar
+943,944,9 Ausstatung > 94 Kleininventar
+945,946,9 Ausstatung > 94 Kleininventar
+947,948,9 Ausstatung > 94 Kleininventar
+949,Übriges,9 Ausstatung > 94 Kleininventar
+960,Übergangspositionen,9 Ausstatung > 96 Transportmittel
+961,962,9 Ausstatung > 96 Transportmittel
+963,964,9 Ausstatung > 96 Transportmittel
+965,966,9 Ausstatung > 96 Transportmittel
+967,968,9 Ausstatung > 96 Transportmittel
+969,Übriges,9 Ausstatung > 96 Transportmittel
+970,Übergangspositionen,9 Ausstatung > 97 Verbrauchsmaterial
+971,972,9 Ausstatung > 97 Verbrauchsmaterial
+973,974,9 Ausstatung > 97 Verbrauchsmaterial
+975,976,9 Ausstatung > 97 Verbrauchsmaterial
+977,978,9 Ausstatung > 97 Verbrauchsmaterial
+979,Übriges,9 Ausstatung > 97 Verbrauchsmaterial
+980,Übergangspositionen,9 Ausstatung > 98 Künstlicher Schmuck
+981,982,9 Ausstatung > 98 Künstlicher Schmuck
+983,984,9 Ausstatung > 98 Künstlicher Schmuck
+985,986,9 Ausstatung > 98 Künstlicher Schmuck
+987,988,9 Ausstatung > 98 Künstlicher Schmuck
+989,Übriges,9 Ausstatung > 98 Künstlicher Schmuck
+990,Übergangspositionen,9 Ausstatung > 99 Honorare
+991,Architekt,9 Ausstatung > 99 Honorare
+992,993,9 Ausstatung > 99 Honorare
+994,995,9 Ausstatung > 99 Honorare
+996,Spezialisten,9 Ausstatung > 99 Honorare
+997,998,9 Ausstatung > 99 Honorare
+999,Übriges,9 Ausstatung > 99 Honorare
